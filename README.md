@@ -1,14 +1,17 @@
 # Fuck hand write anything 
 
+> 纸上得来终觉浅，绝知此事要躬行。
+
 ## Quick Start
-> **`How to run source code?`**
 
+```bash
+$ pnpm i
 
-> ```bash
-> $ pnpm i
+# then run command in shell
+ 
+$ ts-node xxx/xxx.ts
 > ```
 
-> `ts-node` `xxx/xxx/xx.ts`
 
 ## 原生`JS`系列
 
