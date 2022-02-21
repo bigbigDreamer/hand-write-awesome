@@ -1,10 +1,13 @@
 # Fuck hand write anything 
 
+## Quick Start
 > **`How to run source code?`**
-> 
+
+
 > ```bash
 > $ pnpm i
 > ```
+
 > `ts-node` `xxx/xxx/xx.ts`
 
 ## 原生`JS`系列
