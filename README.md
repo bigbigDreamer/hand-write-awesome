@@ -10,7 +10,7 @@ $ pnpm i
 # then run command in shell
  
 $ ts-node xxx/xxx.ts
-> ```
+```
 
 
 ## 原生`JS`系列
