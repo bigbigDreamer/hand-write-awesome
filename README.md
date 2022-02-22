@@ -17,4 +17,21 @@ $ ts-node xxx/xxx.ts
 
 - [x] [实现`new`构造函数](./docs/native-js/new/index.ts)
 - [x] [实现`ES5`组合继承](./docs/native-js/extend/index.ts)
+- [ ] [实现`call`函数]
+- [ ] [实现函数柯里化]
+- [ ] [实现函数组合]
+- [ ] [实现深浅拷贝]
+- [ ] [实现类型判断]
+- [ ] [实现`Promise A+`规范]
+- [ ] [实现`Promise.all`]
+- [ ] [实现`Promise.race`]
+- [ ] [实现`Promise.allSettled`]
+- [ ] [实现`Promise.then`]
+- [ ] [实现`Promise.catch`]
+- [ ] [实现`Promise.finally`]
 
+## 文件上传下载系列
+
+- [ ] [实现文件预览]
+- [ ] [实现文件分片上传]
+- [ ] [实现文件断点续传]
