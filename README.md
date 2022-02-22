@@ -16,4 +16,5 @@ $ ts-node xxx/xxx.ts
 ## 原生`JS`系列
 
 - [x] [实现`new`构造函数](./docs/native-js/new/index.ts)
+- [x] [实现`ES5`组合继承](./docs/native-js/extend/index.ts)
 
