@@ -18,7 +18,7 @@ $ ts-node xxx/xxx.ts
 - [x] [实现`new`构造函数](./docs/native-js/new/index.ts)
 - [x] [实现`ES5`组合继承](./docs/native-js/extend/index.ts)
 - [x] [实现`fn.call`函数](./docs/native-js/call/index.ts)
-- [ ] [实现函数柯里化]
+- [x] [实现函数柯里化](./docs/native-js/curry/index.ts)
 - [ ] [实现函数组合]
 - [ ] [实现深浅拷贝]
 - [ ] [实现类型判断]
