@@ -20,7 +20,7 @@ $ ts-node xxx/xxx.ts
 - [x] [实现`fn.call`函数](./docs/native-js/call/index.ts)
 - [x] [实现函数柯里化](./docs/native-js/curry/index.ts)
 - [x] [实现函数组合](./docs/native-js/compose/index.ts)
-- [ ] [实现深浅拷贝]
+- [x] [实现深浅拷贝](./docs/native-js/clone/index.ts)
 - [ ] [实现类型判断]
 - [ ] [实现`Promise A+`规范]
 - [ ] [实现`Promise.all`]
