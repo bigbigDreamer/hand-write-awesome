@@ -22,7 +22,7 @@ $ ts-node xxx/xxx.ts
 - [x] [实现函数组合](./docs/native-js/compose/index.ts)
 - [x] [实现深浅拷贝](./docs/native-js/clone/index.ts)
 - [x] [实现类型判断](./docs/native-js/typesof/index.ts)
-- [ ] [实现函数缓存]
+- [x] [实现函数缓存](./docs/native-js/cache-fn/index.ts)
 - [ ] [防抖]
 - [ ] [节流]
 - [ ] [数字精度]
