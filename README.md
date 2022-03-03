@@ -24,8 +24,8 @@ $ ts-node xxx/xxx.ts
 - [x] [实现类型判断](./docs/native-js/typesof/index.ts)
 - [x] [实现函数缓存](./docs/native-js/cache-fn/index.ts)
 - [x] [防抖](./docs/native-js/debounce/index.ts)
-- [x] [节流](./docs/native-js/throttle/index.ts);
-- [ ] [数字精度]
+- [x] [节流](./docs/native-js/throttle/index.ts)
+- [x] [数字精度](./docs/native-js/number-precision/index.ts)
 - [ ] [实现`Promise A+`规范]
 - [ ] [实现`Promise.all`]
 - [ ] [实现`Promise.race`]
