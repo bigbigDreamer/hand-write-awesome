@@ -57,7 +57,7 @@ $ ts-node xxx/xxx.ts
 
 ## 设计模式系列
 
-- [ ] [工厂模式]
+- [x] [工厂模式](./docs/design-pattern/factory-mode)
 - [ ] [发布订阅模式]
 - [ ] [观察者模式]
 - [ ] [装饰者模式]
