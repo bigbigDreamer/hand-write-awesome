@@ -27,7 +27,7 @@ $ ts-node xxx/xxx.ts
 - [x] [节流](./docs/native-js/throttle/index.ts)
 - [x] [数字精度](./docs/native-js/number-precision/index.ts)
 - [ ] [实现`Promise A+`规范]
-- [ ] [实现`Promise.all`]
+- [x] [实现`Promise.all`](./docs/native-js/promise-all/index.ts)
 - [ ] [实现`Promise.race`]
 - [ ] [实现`Promise.allSettled`]
 - [ ] [实现`Promise.then`]
