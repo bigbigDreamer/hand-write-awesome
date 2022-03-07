@@ -12,6 +12,7 @@ $ pnpm i
 $ ts-node xxx/xxx.ts
 ```
 
+⚜️ [**里程碑**](https://github.com/bigbigDreamer/hand-write-awesome/wiki/%E9%87%8C%E7%A8%8B%E7%A2%91)
 
 ## 原生`JS`系列
 
