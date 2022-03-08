@@ -16,7 +16,7 @@ jobs:
       - name: 'Echo github env'
         run: echo github
       - name: 'Send mail'
-        uses: dawidd6/action-send-mail@master
+        uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.163.com
           server_port: 465
@@ -25,5 +25,5 @@ jobs:
           subject:  (${{env.REPORT_DATE}})
           body: ${{github.repository}}仓库有新的内容更新了，请及时查看
           to: jadeface.scholar@gmail.com
-          from: GitHub Actions
+          from: 书生的手写代码系列
           content_type: text/html
