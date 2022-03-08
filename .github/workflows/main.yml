@@ -23,7 +23,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject:  (${{env.REPORT_DATE}})
-          body: ${{github.repository}}仓库有新的内容更新了，请及时查看
+          body: ${{github.repository}}有新的内容更新了，当前提交信息为${{github.event.head_commit.message}}\n请及时查看
           to: jadeface.scholar@gmail.com
           from: 书生的手写代码系列
           content_type: text/html
