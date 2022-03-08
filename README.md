@@ -72,3 +72,7 @@ $ ts-node xxx/xxx.ts
 - [ ] [实现文件预览]
 - [ ] [实现文件分片上传]
 - [ ] [实现文件断点续传]
+
+## 算法题目收集
+
+- [x] [数组转树（题型一）](./docs/algorithm-topic-collection/array-to-tree/topic1.ts)
