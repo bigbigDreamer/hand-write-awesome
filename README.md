@@ -55,7 +55,7 @@ $ ts-node xxx/xxx.ts
 - [ ] [桶排序]
 - [ ] [快速排序]
 - [ ] [原地排序]
-- [ ] [二分查找法]
+- [ ] [二分查找法]单例模式
 
 ## 设计模式系列
 
@@ -63,7 +63,7 @@ $ ts-node xxx/xxx.ts
 - [ ] [发布订阅模式]
 - [x] [观察者模式](./docs/design-pattern/observer-mode/index.ts)
 - [ ] [装饰者模式]
-- [ ] [单例模式]
+- [x] [单例模式](./docs/design-pattern/single-mode/index.ts)
 - [ ] [抽象工厂模式]
 - [ ] [策略模式]
 
