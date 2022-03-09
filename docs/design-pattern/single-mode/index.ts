@@ -6,9 +6,17 @@ function SingleMode() {
 }
 
 SingleMode.getInstance = function () {
-    if(!this.instance) {
-        this.instance = new SingleMode();
+    // @ts-ignore
+    if(!SingleMode.instance) {
+        console.log("只执行一次")
+        // @ts-ignore
+        SingleMode.instance = new SingleMode();
     }
 
-    return this.instance;
+    // @ts-ignore
+    return SingleMode.instance;
 }
+
+SingleMode.getInstance()
+SingleMode.getInstance()
+SingleMode.getInstance()
