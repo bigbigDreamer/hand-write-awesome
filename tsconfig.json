@@ -16,7 +16,7 @@
   "compilerOptions": {
     // typescript options here
     "lib": [
-      "dom", "esnext"],
+      "dom", "esnext", "ESNext.Promise"],
     "esModuleInterop": true
   }
 }

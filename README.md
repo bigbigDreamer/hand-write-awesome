@@ -32,7 +32,7 @@ $ ts-node xxx/xxx.ts
 - [x] [实现`Promise.any`](./docs/native-js/promise-any/index.ts)
 - [x] [实现`Promise.race`](./docs/native-js/promise-race/index.ts)
 - [ ] [实现`Promise.allSettled`]
-- [ ] [实现`Promise.then`]
+- [x] [实现`Promise.resolve`](./docs/native-js/promise-resolve/index.ts)
 - [ ] [实现`Promise.catch`]
 - [ ] [实现`Promise.finally`]
 
