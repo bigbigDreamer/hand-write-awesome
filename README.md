@@ -34,7 +34,7 @@ $ ts-node xxx/xxx.ts
 - [ ] [实现`Promise.allSettled`]
 - [x] [实现`Promise.resolve`](./docs/native-js/promise-resolve/index.ts)
 - [ ] [实现`Promise.catch`]
-- [ ] [实现`Promise.finally`]
+- [x] [实现`Promise.finally`](./docs/native-js/promise-finally/index.tsx)
 
 ## 数据结构系列
 

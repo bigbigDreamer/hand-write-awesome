@@ -11,7 +11,7 @@ declare interface PromiseConstructor {
 // 参考：https://juejin.cn/post/6844904048991141901
 Promise.myResolve = function (p) {
     if(p instanceof Promise) {
-        return Promise;
+        return p;
     }
     if(p.then) {
         return new Promise(((resolve, reject) => p.then(resolve, reject)));
