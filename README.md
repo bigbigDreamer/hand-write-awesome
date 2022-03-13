@@ -33,8 +33,8 @@ $ ts-node xxx/xxx.ts
 - [x] [实现`Promise.race`](./docs/native-js/promise-race/index.ts)
 - [ ] [实现`Promise.allSettled`]
 - [x] [实现`Promise.resolve`](./docs/native-js/promise-resolve/index.ts)
-- [ ] [实现`Promise.catch`]
-- [x] [实现`Promise.finally`](./docs/native-js/promise-finally/index.tsx)
+- [x] [实现`Promise.prototype.catch`](./docs/native-js/promise-prototype-catch/index.ts)
+- [x] [实现`Promise.prototype.finally`](./docs/native-js/promise-prototype-finally/index.tsx)
 
 ## 数据结构系列
 
