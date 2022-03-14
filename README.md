@@ -64,7 +64,7 @@ $ ts-node xxx/xxx.ts
 - [x] [观察者模式](./docs/design-pattern/observer-mode/index.ts)
 - [ ] [装饰者模式]
 - [x] [单例模式](./docs/design-pattern/single-mode/index.ts)
-- [ ] [抽象工厂模式]
+- [x] [抽象工厂模式](./docs/design-pattern/abstract-mode/index.ts)
 - [ ] [策略模式]
 
 ## 文件上传下载系列
