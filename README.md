@@ -65,7 +65,7 @@ $ ts-node xxx/xxx.ts
 - [ ] [装饰者模式]
 - [x] [单例模式](./docs/design-pattern/single-mode/index.ts)
 - [x] [抽象工厂模式](./docs/design-pattern/abstract-mode/index.ts)
-- [ ] [策略模式]
+- [x] [策略模式](./docs/design-pattern/strategy-mode/index.ts)
 
 ## 文件上传下载系列
 
