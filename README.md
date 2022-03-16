@@ -55,12 +55,12 @@ $ ts-node xxx/xxx.ts
 - [ ] [桶排序]
 - [ ] [快速排序]
 - [ ] [原地排序]
-- [ ] [二分查找法]单例模式
+- [ ] [二分查找法]
 
 ## 设计模式系列
 
 - [x] [工厂模式](./docs/design-pattern/factory-mode/index.ts)
-- [ ] [发布订阅模式]
+- [x] [发布订阅模式](./docs/design-pattern/pubsub-mode/index.ts)
 - [x] [观察者模式](./docs/design-pattern/observer-mode/index.ts)
 - [ ] [装饰者模式]
 - [x] [单例模式](./docs/design-pattern/single-mode/index.ts)
