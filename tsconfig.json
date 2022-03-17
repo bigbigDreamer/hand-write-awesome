@@ -14,6 +14,7 @@
     }
   },
   "compilerOptions": {
+    "experimentalDecorators": true,
     // typescript options here
     "lib": [
       "dom", "esnext", "ESNext.Promise"],

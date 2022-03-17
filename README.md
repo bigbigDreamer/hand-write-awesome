@@ -62,7 +62,7 @@ $ ts-node xxx/xxx.ts
 - [x] [工厂模式](./docs/design-pattern/factory-mode/index.ts)
 - [x] [发布订阅模式](./docs/design-pattern/pubsub-mode/index.ts)
 - [x] [观察者模式](./docs/design-pattern/observer-mode/index.ts)
-- [ ] [装饰者模式]
+- [x] [装饰者模式](./docs/design-pattern/decorator-pattern/index.ts)
 - [x] [单例模式](./docs/design-pattern/single-mode/index.ts)
 - [x] [抽象工厂模式](./docs/design-pattern/abstract-mode/index.ts)
 - [x] [策略模式](./docs/design-pattern/strategy-mode/index.ts)
