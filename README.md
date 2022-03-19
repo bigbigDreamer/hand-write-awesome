@@ -48,6 +48,7 @@ $ ts-node xxx/xxx.ts
 - [ ] [循环链表]
 - [ ] [红黑树]
 - [ ] [图]
+- [x] [缓存](./docs/algorithms-and-data-structures/cache/index.ts)
 
 ## 算法系列
 
