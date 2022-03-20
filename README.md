@@ -49,6 +49,7 @@ $ ts-node xxx/xxx.ts
 - [ ] [红黑树]
 - [ ] [图]
 - [x] [缓存](./docs/algorithms-and-data-structures/cache/index.ts)
+- [x] [阶乘](./docs/algorithms-and-data-structures/factorial/index.ts)
 
 ## 算法系列
 
