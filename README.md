@@ -50,6 +50,7 @@ $ ts-node xxx/xxx.ts
 - [ ] [图]
 - [x] [缓存](./docs/algorithms-and-data-structures/cache/index.ts)
 - [x] [阶乘](./docs/algorithms-and-data-structures/factorial/index.ts)
+- [x] [递归](./docs/algorithms-and-data-structures/recursion/index.ts)
 
 ## 算法系列
 
