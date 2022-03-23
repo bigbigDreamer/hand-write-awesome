@@ -40,7 +40,7 @@ $ ts-node xxx/xxx.ts
 
 - [ ] [堆]
 - [ ] [栈]
-- [ ] [队列]
+- [x] [队列](./docs/algorithms-and-data-structures/queue/index.ts)
 - [x] [循环队列](./docs/algorithms-and-data-structures/circular-queue/index.ts)
 - [ ] [二叉树]
 - [ ] [缓存]
