@@ -39,7 +39,7 @@ $ ts-node xxx/xxx.ts
 ## 数据结构系列
 
 - [ ] [堆]
-- [ ] [栈]
+- [x] [栈](./docs/algorithms-and-data-structures/stack/index.ts)
 - [x] [队列](./docs/algorithms-and-data-structures/queue/index.ts)
 - [x] [循环队列](./docs/algorithms-and-data-structures/circular-queue/index.ts)
 - [ ] [二叉树]
