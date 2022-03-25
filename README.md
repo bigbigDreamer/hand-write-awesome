@@ -43,7 +43,6 @@ $ ts-node xxx/xxx.ts
 - [x] [队列](./docs/algorithms-and-data-structures/queue/index.ts)
 - [x] [循环队列](./docs/algorithms-and-data-structures/circular-queue/index.ts)
 - [ ] [二叉树]
-- [ ] [缓存]
 - [ ] [单链表]
 - [ ] [双链表]
 - [ ] [循环链表]
@@ -52,6 +51,7 @@ $ ts-node xxx/xxx.ts
 - [x] [缓存](./docs/algorithms-and-data-structures/cache/index.ts)
 - [x] [阶乘](./docs/algorithms-and-data-structures/factorial/index.ts)
 - [x] [递归](./docs/algorithms-and-data-structures/recursion/index.ts)
+- [x] [链表的循环检测](./docs/algorithms-and-data-structures/cycle-detection/index.ts)
 
 ## 算法系列
 
