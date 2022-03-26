@@ -1,0 +1,5 @@
+*.html linguist-language=TypeScript
+*.md linguist-language=TypeScript
+*.json linguist-language=TypeScript
+*.js linguist-language=TypeScript
+
