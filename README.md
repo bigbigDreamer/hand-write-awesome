@@ -52,6 +52,7 @@ $ ts-node xxx/xxx.ts
 - [x] [阶乘](./docs/algorithms-and-data-structures/factorial/index.ts)
 - [x] [递归](./docs/algorithms-and-data-structures/recursion/index.ts)
 - [x] [链表的循环检测](./docs/algorithms-and-data-structures/cycle-detection/index.ts)
+- [x] [日期转星期](./docs/algorithms-and-data-structures/date-to-day/index.ts)
 
 ## 算法系列
 
