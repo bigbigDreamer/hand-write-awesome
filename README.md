@@ -81,3 +81,7 @@ $ ts-node xxx/xxx.ts
 ## 算法题目收集
 
 - [x] [数组转树（题型一）](./docs/algorithm-topic-collection/array-to-tree/topic1.ts)
+
+## Fuck Awesome
+
+- [x] [虚拟下载](./docs/awesome/virtual-download/index.ts)
