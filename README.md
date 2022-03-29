@@ -85,3 +85,4 @@ $ ts-node xxx/xxx.ts
 ## Fuck Awesome
 
 - [x] [虚拟下载](./docs/awesome/virtual-download/index.ts)
+- [x] [文件流数据转换](./docs/awesome/file-to-blob-url/index.ts)
