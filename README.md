@@ -86,3 +86,8 @@ $ ts-node xxx/xxx.ts
 
 - [x] [虚拟下载](./docs/awesome/virtual-download/index.ts)
 - [x] [文件流数据转换](./docs/awesome/file-to-blob-url/index.ts)
+
+
+## TypeScript
+
+- [x] [实现Pick](./docs/typescript/pick.ts)
