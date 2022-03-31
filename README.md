@@ -91,3 +91,4 @@ $ ts-node xxx/xxx.ts
 ## TypeScript
 
 - [x] [实现Pick](./docs/typescript/pick.ts)
+- [x] [实现Omit](./docs/typescript/omit.ts)
