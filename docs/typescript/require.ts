@@ -3,6 +3,7 @@ type MyRequired<O extends Record<string, any>> = {
 }
 
 
+
 type DataStrut = {
     name: string;
     age?: number;
