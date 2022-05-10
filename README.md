@@ -97,3 +97,5 @@ $ ts-node xxx/xxx.ts
 - [x] [实现Record](./docs/typescript/record.ts)
 - [x] [实现Required](./docs/typescript/require.ts)
 - [x] [实现Partial](./docs/typescript/partial.ts)
+- [x] [实现UpperCase](./docs/typescript/uppercase.ts)
+- [x] [实现reverse](./docs/typescript/reverse.ts)
