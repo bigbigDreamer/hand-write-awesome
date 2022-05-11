@@ -99,3 +99,4 @@ $ ts-node xxx/xxx.ts
 - [x] [实现Partial](./docs/typescript/partial.ts)
 - [x] [实现UpperCase](./docs/typescript/uppercase.ts)
 - [x] [实现reverse](./docs/typescript/reverse.ts)
+- [x] [实现UpperCaseLast](./docs/typescript/uppercase-last.ts)
