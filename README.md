@@ -100,3 +100,4 @@ $ ts-node xxx/xxx.ts
 - [x] [实现UpperCase](./docs/typescript/uppercase.ts)
 - [x] [实现reverse](./docs/typescript/reverse.ts)
 - [x] [实现UpperCaseLast](./docs/typescript/uppercase-last.ts)
+- [x] [收缩联合类型](./docs/typescript/uniq-type-uppercase.ts)
