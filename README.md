@@ -58,7 +58,7 @@ $ ts-node xxx/xxx.ts
 
 - [x] [冒泡排序](./docs/algorithms-and-data-structures/bubble-sort/index.ts)
 - [x] [桶排序](./docs/algorithms-and-data-structures/bucket-sort)
-- [ ] [快速排序]
+- [x] [快速排序](./docs/algorithms-and-data-structures/quick-sort)
 - [ ] [原地排序]
 - [ ] [二分查找法]
 
