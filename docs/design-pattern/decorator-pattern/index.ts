@@ -22,5 +22,5 @@ class Person {
 
 const p = new Person("张三");
 
-// @ts-ignore
+// @ts-ignore˙˙
 p.say();
